@@ -1,2 +1,2 @@
-# test-repo-Kari
+# cmdline-course
 demo
